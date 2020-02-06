@@ -1,0 +1,10 @@
+body {
+    background-color: #ffc200;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#heading {
+    margin-top: 75px;
+    margin-left: 100px;
+}
